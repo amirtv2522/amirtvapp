@@ -1,5 +1,0 @@
-#EXTM3U
-                                                                                                                                                    #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://ap.mukudzei360.workers.dev/get-variant?id=65&q=0
-                                                                                                                                                    #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://ap.mukudzei360.workers.dev/get-variant?id=65&q=1
