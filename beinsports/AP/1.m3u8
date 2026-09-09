@@ -2,13 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1920x1080,QUALITY=fhd,FRAME-RATE=30,NAME="1080p FHD"
-https://ap.mehran-barati-arad.workers.dev/get-variant?id=59&q=0
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2800000,RESOLUTION=1280x720,QUALITY=hd,FRAME-RATE=30,NAME="720p HD"
-https://ap.mehran-barati-arad.workers.dev/get-variant?id=59&q=1
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=854x480,QUALITY=sd,FRAME-RATE=30,NAME="480p"
-https://ap.mehran-barati-arad.workers.dev/get-variant?id=59&q=2
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=640x360,QUALITY=low,FRAME-RATE=25,NAME="360p"
-https://ap.mehran-barati-arad.workers.dev/get-variant?id=59&q=3
+https://ap-4fd.pages.dev/bein1.m3u8
