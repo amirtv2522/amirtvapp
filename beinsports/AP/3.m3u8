@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2800000,RESOLUTION=1280x720,QUALITY=hd,FRAME-RATE=30,NAME="720p HD"
+https://ap.mehran-barati-arad.workers.dev/get-variant?id=61&q=1
+
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1920x1080,QUALITY=fhd,FRAME-RATE=30,NAME="1080p FHD"
-https://ap-4fd.pages.dev/bein3.m3u8
+https://ap.mehran-barati-arad.workers.dev/get-variant?id=61&q=0
